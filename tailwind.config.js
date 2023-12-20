@@ -12,6 +12,10 @@ module.exports = {
     ],
   },
   theme: {
+    fontSize: {
+      title: `2.6rem;`,
+      paragraph: `1.2rem;`,
+    },
     fontFamily: {
       poppins: ["Poppins", "sans-serif"],
       adelia: ["ADELIA", "cursive"],
